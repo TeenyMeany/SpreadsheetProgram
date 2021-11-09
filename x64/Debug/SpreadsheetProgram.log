@@ -1,0 +1,4 @@
+﻿  SpreadsheetProgram.cpp
+C:\Users\Cody\source\repos\SpreadsheetProgram\SpreadsheetProgram.cpp(156,48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Cody\source\repos\SpreadsheetProgram\SpreadsheetProgram.cpp(300,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  SpreadsheetProgram.vcxproj -> C:\Users\Cody\source\repos\SpreadsheetProgram\x64\Debug\SpreadsheetProgram.exe
